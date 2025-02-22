@@ -1,4 +1,4 @@
-"C:\Users\NEXUS\Desktop\MY SQL\pizza_sales\Red and Black Modern Paper Illustrative Pizza Restaurant Presentation (2).pdf"
+https://drive.google.com/file/d/1nNd9JPnhM18SaD67QpRTdACmbd_xUPNt/view?usp=sharing
 
 # Pizza-sales-sql-project
 🍕 SQL Pizza Sales Analysis Project
