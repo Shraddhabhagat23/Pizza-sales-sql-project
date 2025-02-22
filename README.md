@@ -1,3 +1,5 @@
+"C:\Users\NEXUS\Desktop\MY SQL\pizza_sales\Red and Black Modern Paper Illustrative Pizza Restaurant Presentation (2).pdf"
+
 # Pizza-sales-sql-project
 🍕 SQL Pizza Sales Analysis Project
 This project focuses on analyzing pizza sales data using SQL to derive key business insights. The dataset consists of three tables:
